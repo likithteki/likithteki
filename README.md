@@ -1,36 +1,43 @@
-<!DOCTYPE html>
-<html lang="en">
-<body>
-    <div>
-        <img src="https://c4.wallpaperflare.com/wallpaper/371/264/21/itzmauuuroo-hackers-anonymous-hd-wallpaper-preview.jpg" alt="MasterHead" style="width: 100%; height: 200px;">
-        <p>    
-            Hi 👋, I am Likith, an Cybersecurity enthusiastic and ambitious Bug hunter. I specialize in Cybersecurity and Web Application Security. I love to network, join new communities, and add value ✨
-        </p>
-        <div>
-            <ul>
-                <li>🕶️ I’m currently on a journey to break <strong>things</strong></li>
-                <li>🤖 I’m currently learning <strong>everything</strong> 🤓</li>
-                <li>🤝 I’m looking for help with <strong>finding projects to contribute to!</strong></li>
-                <li>👨‍💻 All of my projects are available at <a href="https://github.com/likithteki/" target="_blank" rel="noopener noreferrer">here</a></li>
-                <li>💬 Ask me about <strong>Cybersecurity, Bug Bounty, Web Application Security</strong></li>
-                <li>✉️ Reach me out at <a href="mailto:likithteki76@gmail.com">likithteki76@gmail.com</a></li>
-            </ul>
-        </div>
-        <h6 align="left">Languages and Tools:</h6>
-        <p align="left"> 
-            <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20"/></a>
-            <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="20" height="20"/></a> 
-            <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="20" height="20"/></a> 
-            <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="20" height="20"/></a> 
-            <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"/></a>
-        </p>
-        <br>
-        <p align="center" class="social-icons">
-            <a href="https://twitter.com/likith_teki" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="20" width="40" /></a>
-            <a href="https://linkedin.com/in/likithteki" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="40" /></a>
-            <a href="https://instagram.com/likith.teki" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="20" width="40" /></a>
-            <a href="https://medium.com/@likithteki76" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="20" width="40" /></a>
-        </p>
-    </div>
-</body>
-</html>
+# ![Hi, LikithTeki](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=200&height=40&lines=Hi%2C+I'm+Likith+Teki!👋🏼;+;+)
+
+
+### 🧰 Here is what I'm working on!  
+
+- 🔭 I’m currently working on Cybersecurity and Bugbounty.
+  
+-  I’m currently working on [subenum](https://github.com/likithteki/Tools-commands/blob/main/subenumeration)
+
+- 💬 Ask me about **Webapplicationsecurity , Bugbounty**
+
+- ✉️ How to reach me **likithteki76@gmail.com**
+
+- MY Resume [Click](https://drive.google.com/file/d/1IPY-fkoCxb2XdRwCyhk9gJG9RLUt5lq7/view?usp=drive_link)
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+### 👨‍💻 Languages and Tools I Use
+
+![Python](https://img.shields.io/badge/Python-05122A?style=plastic&logo=Python&logoColor=3776AB)
+![Git](https://img.shields.io/badge/Git-05122A?style=plastic&logo=Git&logoColor=F05032)
+![CSS3](https://img.shields.io/badge/CSS3-05122A?&style=plastic&logo=CSS3&logoColor=3776AB)
+![HTML5](https://img.shields.io/badge/HTML5-05122A?&style=plastic&logo=HTML5&logoColor=F05032)
+![Burpsuite](https://img.shields.io/badge/Burpsuite-black?logo=Burpsuite)
+![Static Badge](https://img.shields.io/badge/Linux-black?logo=Linux)
+
+
+<details>
+<summary>View More</summary>
+
+![Markdown](https://img.shields.io/badge/Markdown-000?&style=plastic&logo=markdown&logoColor=13aa52)
+![VSCode](https://img.shields.io/badge/VisualStudio-000?&style=plastic&logo=VisualStudio&logoColor=3776AB)
+![MSOffice](https://img.shields.io/badge/MSOffice-000?&style=plastic&logo=MicrosoftOffice&logoColor=F05032)
+</details>
+
+---
+
+<a href="https://twitter.com/likith_teki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="likith_teki" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/likithteki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="likithteki" height="30" width="40" /></a>
+<a href="https://instagram.com/likith.teki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="likith.teki" height="30" width="40" /></a>
+<a href="https://medium.com/@likithteki76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@likithteki76" height="30" width="40" /></a>
+
+---
