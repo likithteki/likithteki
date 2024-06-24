@@ -1,4 +1,4 @@
-<img src="https://c4.wallpaperflare.com/wallpaper/371/264/21/itzmauuuroo-hackers-anonymous-hd-wallpaper-preview.jpg" alt="MasterHead" style="width: 1000px; height: auto;">
+<img src="https://c4.wallpaperflare.com/wallpaper/371/264/21/itzmauuuroo-hackers-anonymous-hd-wallpaper-preview.jpg" alt="MasterHead" style="width: 1000px; height: 300px;">
 <hr>
 <h1 align="center">Hi 👋, I'm Likith Teki</h1>
 <h3 align="center">A passionate Bug Hunter from India</h3>
