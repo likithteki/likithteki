@@ -22,7 +22,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-05122A?&style=plastic&logo=CSS3&logoColor=3776AB)
 ![HTML5](https://img.shields.io/badge/HTML5-05122A?&style=plastic&logo=HTML5&logoColor=F05032)
 ![Burpsuite](https://img.shields.io/badge/Burpsuite-black?logo=Burpsuite)
-![Static Badge](https://img.shields.io/badge/Linux-black?logo=Linux)
+![linux](https://img.shields.io/badge/Linux-black?logo=Linux)
+![Bash](https://img.shields.io/badge/Bash-black?logo=Bash%20script)
 
 
 <details>
