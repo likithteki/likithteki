@@ -39,6 +39,5 @@
 <a href="https://twitter.com/likith_teki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="likith_teki" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/likithteki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="likithteki" height="30" width="40" /></a>
 <a href="https://instagram.com/likith.teki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="likith.teki" height="30" width="40" /></a>
-<a href="https://medium.com/@likithteki76" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-white-icon.png" alt="@likithteki76" height="30" width="40" /></a>
 
 ---
